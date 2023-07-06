@@ -38,5 +38,5 @@
 </div>
 
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
+  <p>by :heart: JavaScript.</p>
 </div>

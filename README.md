@@ -1,6 +1,7 @@
 <div>
   <h1 align="center">>Hi How are you? I am <a href="https://www.linkedin.com/in/elyas-santana/"><i>Elyas</i></a> 😃️</h1>
   <p align="center">I study Systems Analysis and Development at <a href="https://www.ifs.edu.br/"><i>IFS.</i></a> I've been a web developer for over 5 years.</p>
+  <p><a href="https://github.com/ElyasSantana">Old Profile</a></p>
 </div>
 
 <div align="center">

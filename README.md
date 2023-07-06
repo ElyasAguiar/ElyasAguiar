@@ -1,11 +1,11 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/elyas-santana/"><i>Elyas</i></a> 😃️</h1>
-  <p align="center">Estudo Análise e Desenvolvimento de Sistemas no <a href="https://www.ifs.edu.br/"><i>IFS.</i></a> Sou desenvolvedor Web a mais de 5 anos.
+  <h1 align="center">>Hi How are you? I am <a href="https://www.linkedin.com/in/elyas-santana/"><i>Elyas</i></a> 😃️</h1>
+  <p align="center">I study Systems Analysis and Development at <a href="https://www.ifs.edu.br/"><i>IFS.</i></a> I've been a web developer for over 5 years.</p>
 </div>
 
 <div align="center">
   <a href="https://github.com/ElyasAguiar">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=elyasaguiar&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=elyasaguiar&count_private=false&include_all_commits=false&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyasaguiar&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
